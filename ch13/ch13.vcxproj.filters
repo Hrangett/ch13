@@ -36,5 +36,8 @@
     <ClCompile Include="05_PointClassTemplateFuncDef.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="00_FunctionTemplate.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
